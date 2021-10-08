@@ -1,6 +1,6 @@
 # Leaflet Homework: Visualizing Data with Leaflet
 
-Access the public website: https://github.com/jorgeaserrano/usgs-earthquake-homework.git
+Access the public website: http://192.168.1.103:5501/index.html
 
 ## Background
 
