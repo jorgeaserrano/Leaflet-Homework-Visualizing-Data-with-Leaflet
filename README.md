@@ -1,6 +1,6 @@
 # Leaflet Homework: Visualizing Data with Leaflet
 
-Access the public website: file:///Users/jorgeaserrano/Desktop/smu2/smu-dal-data-pt-06-2021-u-c/02-Homework/15-Mapping-Web/instructions-serrano2/index.html
+Access the public website: https://github.com/jorgeaserrano/usgs-earthquake-homework.git
 
 ## Background
 
